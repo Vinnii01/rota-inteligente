@@ -1,6 +1,6 @@
 # Rota Inteligente: Otimização de Entregas com Algoritmos de IA
 
-**Autor:** Manus AI  
+**Autor:** Vinícius da Silva Brito  
 **Data:** Novembro de 2025  
 **Disciplina:** Artificial Intelligence Fundamentals  
 **Objetivo:** Resolver o problema de otimização de rotas de entrega usando algoritmos clássicos de inteligência artificial
